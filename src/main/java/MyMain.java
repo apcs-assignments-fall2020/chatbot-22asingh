@@ -10,8 +10,8 @@ public class MyMain {
         String color = scan.next();
         System.out.println("Cool, I like " + color + " as well!");
         System.out.println("What is your favorite number? ");
-        int number = Integer.parseInt(scan.next());
-        System.out.println("Oh " + number + " is my favorite number too!");
+        int num = Integer.parseInt(scan.next());
+        System.out.println("Oh " + num + " is my favorite number too!");
         System.out.println("What is your favorite movie, " + name + "? ");
         String movie = scan.next();
         System.out.println("Wow! I love " + movie + " too!");
